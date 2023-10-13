@@ -1,0 +1,902 @@
+[
+    {
+        "Title": "Rijeka",
+        "Description": "8 Warbler Circle",
+        "Price": "$460550.16",
+        "Property_type": "Granite Surfaces",
+        "Listing_type": "Way",
+        "Bedrooms ": 3,
+        "property_id": 1
+    },
+    {
+        "Title": "Woken",
+        "Description": "35322 Tennessee Place",
+        "Price": "$2346605.07",
+        "Property_type": "Structural & Misc Steel Erection",
+        "Listing_type": "Court",
+        "Bedrooms ": 2,
+        "property_id": 2
+    },
+    {
+        "Title": "Huili",
+        "Description": "688 Sage Circle",
+        "Price": "$359497.89",
+        "Property_type": "Waterproofing & Caulking",
+        "Listing_type": "Lane",
+        "Bedrooms ": 2,
+        "property_id": 3
+    },
+    {
+        "Title": "Veselí nad Lužnicí",
+        "Description": "4464 Briar Crest Trail",
+        "Price": "$1408134.27",
+        "Property_type": "Ornamental Railings",
+        "Listing_type": "Trail",
+        "Bedrooms ": 2,
+        "property_id": 4
+    },
+    {
+        "Title": "Baimaqiao",
+        "Description": "17612 Helena Parkway",
+        "Price": "$3568434.13",
+        "Property_type": "Landscaping & Irrigation",
+        "Listing_type": "Circle",
+        "Bedrooms ": 4,
+        "property_id": 5
+    },
+    {
+        "Title": "Fenshui",
+        "Description": "8 Forest Dale Point",
+        "Price": "$1363894.65",
+        "Property_type": "HVAC",
+        "Listing_type": "Hill",
+        "Bedrooms ": 3,
+        "property_id": 6
+    },
+    {
+        "Title": "Catanduva",
+        "Description": "81834 Crowley Junction",
+        "Price": "$686106.58",
+        "Property_type": "Drywall & Acoustical (FED)",
+        "Listing_type": "Road",
+        "Bedrooms ": 2,
+        "property_id": 7
+    },
+    {
+        "Title": "Cikou",
+        "Description": "54115 Oak Valley Point",
+        "Price": "$3979509.28",
+        "Property_type": "EIFS",
+        "Listing_type": "Pass",
+        "Bedrooms ": 1,
+        "property_id": 8
+    },
+    {
+        "Title": "Miaoling",
+        "Description": "8 Dawn Center",
+        "Price": "$2991333.36",
+        "Property_type": "Plumbing & Medical Gas",
+        "Listing_type": "Hill",
+        "Bedrooms ": 4,
+        "property_id": 9
+    },
+    {
+        "Title": "Tamanan",
+        "Description": "878 Pond Center",
+        "Price": "$2694850.80",
+        "Property_type": "Structural & Misc Steel Erection",
+        "Listing_type": "Point",
+        "Bedrooms ": 1,
+        "property_id": 10
+    },
+    {
+        "Title": "Rouyuan",
+        "Description": "23562 Express Way",
+        "Price": "$3221840.47",
+        "Property_type": "Epoxy Flooring",
+        "Listing_type": "Junction",
+        "Bedrooms ": 3,
+        "property_id": 11
+    },
+    {
+        "Title": "Ulricehamn",
+        "Description": "12670 Dixon Pass",
+        "Price": "$2959090.13",
+        "Property_type": "Doors, Frames & Hardware",
+        "Listing_type": "Pass",
+        "Bedrooms ": 4,
+        "property_id": 12
+    },
+    {
+        "Title": "Daykitin",
+        "Description": "6513 New Castle Place",
+        "Price": "$2433841.23",
+        "Property_type": "Fire Protection",
+        "Listing_type": "Alley",
+        "Bedrooms ": 2,
+        "property_id": 13
+    },
+    {
+        "Title": "Idanha-a-Nova",
+        "Description": "89 Dottie Crossing",
+        "Price": "$3097722.85",
+        "Property_type": "EIFS",
+        "Listing_type": "Hill",
+        "Bedrooms ": 1,
+        "property_id": 14
+    },
+    {
+        "Title": "Biograd na Moru",
+        "Description": "9868 Manufacturers Junction",
+        "Price": "$1889598.96",
+        "Property_type": "Rebar & Wire Mesh Install",
+        "Listing_type": "Pass",
+        "Bedrooms ": 2,
+        "property_id": 15
+    },
+    {
+        "Title": "Balai",
+        "Description": "3 Old Shore Center",
+        "Price": "$3827707.53",
+        "Property_type": "Masonry",
+        "Listing_type": "Street",
+        "Bedrooms ": 1,
+        "property_id": 16
+    },
+    {
+        "Title": "Huddinge",
+        "Description": "120 Leroy Pass",
+        "Price": "$3651331.23",
+        "Property_type": "Wall Protection",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 2,
+        "property_id": 17
+    },
+    {
+        "Title": "Patía",
+        "Description": "2146 Coolidge Trail",
+        "Price": "$3554598.62",
+        "Property_type": "Fire Protection",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 2,
+        "property_id": 18
+    },
+    {
+        "Title": "Las Toscas",
+        "Description": "0 Russell Junction",
+        "Price": "$4650555.82",
+        "Property_type": "Termite Control",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 2,
+        "property_id": 19
+    },
+    {
+        "Title": "Pu’er",
+        "Description": "72 Delaware Park",
+        "Price": "$1577428.35",
+        "Property_type": "Overhead Doors",
+        "Listing_type": "Trail",
+        "Bedrooms ": 1,
+        "property_id": 20
+    },
+    {
+        "Title": "Gbarnga",
+        "Description": "123 Jana Alley",
+        "Price": "$82576.08",
+        "Property_type": "Drilled Shafts",
+        "Listing_type": "Court",
+        "Bedrooms ": 1,
+        "property_id": 21
+    },
+    {
+        "Title": "Coronel",
+        "Description": "3 Monument Hill",
+        "Price": "$4996607.37",
+        "Property_type": "Marlite Panels (FED)",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 4,
+        "property_id": 22
+    },
+    {
+        "Title": "Bonabéri",
+        "Description": "46 Clarendon Road",
+        "Price": "$2457425.82",
+        "Property_type": "EIFS",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 4,
+        "property_id": 23
+    },
+    {
+        "Title": "Gorgān",
+        "Description": "03 Hansons Court",
+        "Price": "$4039286.34",
+        "Property_type": "Framing (Wood)",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 4,
+        "property_id": 24
+    },
+    {
+        "Title": "Guebwiller",
+        "Description": "3303 Goodland Trail",
+        "Price": "$4863514.97",
+        "Property_type": "Ornamental Railings",
+        "Listing_type": "Lane",
+        "Bedrooms ": 3,
+        "property_id": 25
+    },
+    {
+        "Title": "Capas",
+        "Description": "3 Northport Plaza",
+        "Price": "$4589956.25",
+        "Property_type": "Electrical",
+        "Listing_type": "Road",
+        "Bedrooms ": 1,
+        "property_id": 26
+    },
+    {
+        "Title": "Tabug",
+        "Description": "6 Tennessee Terrace",
+        "Price": "$544337.31",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Point",
+        "Bedrooms ": 2,
+        "property_id": 27
+    },
+    {
+        "Title": "Dingzigu",
+        "Description": "67918 Harper Point",
+        "Price": "$1330073.45",
+        "Property_type": "Marlite Panels (FED)",
+        "Listing_type": "Circle",
+        "Bedrooms ": 1,
+        "property_id": 28
+    },
+    {
+        "Title": "Jesús María",
+        "Description": "9 Evergreen Hill",
+        "Price": "$2945658.07",
+        "Property_type": "EIFS",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 2,
+        "property_id": 29
+    },
+    {
+        "Title": "Wuhu",
+        "Description": "070 Evergreen Avenue",
+        "Price": "$293038.94",
+        "Property_type": "Drywall & Acoustical (MOB)",
+        "Listing_type": "Way",
+        "Bedrooms ": 4,
+        "property_id": 30
+    },
+    {
+        "Title": "Sa‘sa‘",
+        "Description": "4278 Birchwood Center",
+        "Price": "$974140.00",
+        "Property_type": "Casework",
+        "Listing_type": "Hill",
+        "Bedrooms ": 4,
+        "property_id": 31
+    },
+    {
+        "Title": "Pewel Wielka",
+        "Description": "52 Kedzie Plaza",
+        "Price": "$353018.94",
+        "Property_type": "Masonry & Precast",
+        "Listing_type": "Circle",
+        "Bedrooms ": 1,
+        "property_id": 32
+    },
+    {
+        "Title": "San Juan Bautista",
+        "Description": "89 Farwell Hill",
+        "Price": "$4198819.72",
+        "Property_type": "Overhead Doors",
+        "Listing_type": "Place",
+        "Bedrooms ": 3,
+        "property_id": 33
+    },
+    {
+        "Title": "Soutinho",
+        "Description": "9 Atwood Center",
+        "Price": "$1020173.77",
+        "Property_type": "Plumbing & Medical Gas",
+        "Listing_type": "Avenue",
+        "Bedrooms ": 1,
+        "property_id": 34
+    },
+    {
+        "Title": "Kāshmar",
+        "Description": "1 Granby Drive",
+        "Price": "$1965137.48",
+        "Property_type": "Drywall & Acoustical (FED)",
+        "Listing_type": "Circle",
+        "Bedrooms ": 3,
+        "property_id": 35
+    },
+    {
+        "Title": "Stamford",
+        "Description": "98950 Jenifer Junction",
+        "Price": "$385824.47",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Alley",
+        "Bedrooms ": 1,
+        "property_id": 36
+    },
+    {
+        "Title": "Istres",
+        "Description": "3906 Gale Drive",
+        "Price": "$2437688.92",
+        "Property_type": "Soft Flooring and Base",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 4,
+        "property_id": 37
+    },
+    {
+        "Title": "Tawangsari",
+        "Description": "3 Sundown Point",
+        "Price": "$4355272.30",
+        "Property_type": "EIFS",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 3,
+        "property_id": 38
+    },
+    {
+        "Title": "Caherconlish",
+        "Description": "9 Algoma Street",
+        "Price": "$3965047.07",
+        "Property_type": "Structural & Misc Steel Erection",
+        "Listing_type": "Trail",
+        "Bedrooms ": 1,
+        "property_id": 39
+    },
+    {
+        "Title": "Keyi",
+        "Description": "14 Marquette Place",
+        "Price": "$1175217.42",
+        "Property_type": "Structural and Misc Steel (Fabrication)",
+        "Listing_type": "Trail",
+        "Bedrooms ": 3,
+        "property_id": 40
+    },
+    {
+        "Title": "Pantai",
+        "Description": "35 Bunting Plaza",
+        "Price": "$1647882.44",
+        "Property_type": "Hard Tile & Stone",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 4,
+        "property_id": 41
+    },
+    {
+        "Title": "Pasirmadang",
+        "Description": "7273 Artisan Trail",
+        "Price": "$1571991.34",
+        "Property_type": "Framing (Steel)",
+        "Listing_type": "Road",
+        "Bedrooms ": 2,
+        "property_id": 42
+    },
+    {
+        "Title": "Krajan",
+        "Description": "30 Elka Drive",
+        "Price": "$4436022.30",
+        "Property_type": "Granite Surfaces",
+        "Listing_type": "Lane",
+        "Bedrooms ": 3,
+        "property_id": 43
+    },
+    {
+        "Title": "Kokofata",
+        "Description": "65 Helena Circle",
+        "Price": "$1301233.78",
+        "Property_type": "Roofing (Metal)",
+        "Listing_type": "Junction",
+        "Bedrooms ": 3,
+        "property_id": 44
+    },
+    {
+        "Title": "Brodósqui",
+        "Description": "30 Dakota Trail",
+        "Price": "$2532506.32",
+        "Property_type": "Waterproofing & Caulking",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 2,
+        "property_id": 45
+    },
+    {
+        "Title": "Batou",
+        "Description": "0 Northfield Hill",
+        "Price": "$2106563.48",
+        "Property_type": "Waterproofing & Caulking",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 3,
+        "property_id": 46
+    },
+    {
+        "Title": "Pingli",
+        "Description": "08449 Banding Junction",
+        "Price": "$3478849.78",
+        "Property_type": "Rebar & Wire Mesh Install",
+        "Listing_type": "Trail",
+        "Bedrooms ": 2,
+        "property_id": 47
+    },
+    {
+        "Title": "Łubnice",
+        "Description": "94136 Anniversary Terrace",
+        "Price": "$2469762.29",
+        "Property_type": "Framing (Wood)",
+        "Listing_type": "Avenue",
+        "Bedrooms ": 1,
+        "property_id": 48
+    },
+    {
+        "Title": "Kineshma",
+        "Description": "75645 Bunting Drive",
+        "Price": "$2477216.52",
+        "Property_type": "Fire Protection",
+        "Listing_type": "Crossing",
+        "Bedrooms ": 3,
+        "property_id": 49
+    },
+    {
+        "Title": "Yaosai",
+        "Description": "459 Vermont Plaza",
+        "Price": "$1097236.61",
+        "Property_type": "Hard Tile & Stone",
+        "Listing_type": "Crossing",
+        "Bedrooms ": 4,
+        "property_id": 50
+    },
+    {
+        "Title": "Bela Vista",
+        "Description": "16786 Red Cloud Circle",
+        "Price": "$3462474.32",
+        "Property_type": "Roofing (Metal)",
+        "Listing_type": "Street",
+        "Bedrooms ": 1,
+        "property_id": 51
+    },
+    {
+        "Title": "Ennery",
+        "Description": "6 Esker Parkway",
+        "Price": "$4498622.29",
+        "Property_type": "Marlite Panels (FED)",
+        "Listing_type": "Way",
+        "Bedrooms ": 2,
+        "property_id": 52
+    },
+    {
+        "Title": "Mauloo",
+        "Description": "239 Hoepker Hill",
+        "Price": "$2464817.59",
+        "Property_type": "Retaining Wall and Brick Pavers",
+        "Listing_type": "Pass",
+        "Bedrooms ": 4,
+        "property_id": 53
+    },
+    {
+        "Title": "Čeladná",
+        "Description": "8 Northridge Center",
+        "Price": "$1205412.17",
+        "Property_type": "Fire Sprinkler System",
+        "Listing_type": "Street",
+        "Bedrooms ": 1,
+        "property_id": 54
+    },
+    {
+        "Title": "Biankouma",
+        "Description": "48017 Straubel Circle",
+        "Price": "$3691559.48",
+        "Property_type": "Prefabricated Aluminum Metal Canopies",
+        "Listing_type": "Lane",
+        "Bedrooms ": 1,
+        "property_id": 55
+    },
+    {
+        "Title": "Gravataí",
+        "Description": "2293 Dayton Road",
+        "Price": "$2272682.97",
+        "Property_type": "Soft Flooring and Base",
+        "Listing_type": "Circle",
+        "Bedrooms ": 1,
+        "property_id": 56
+    },
+    {
+        "Title": "Waiholo",
+        "Description": "7 Toban Parkway",
+        "Price": "$2196657.43",
+        "Property_type": "Overhead Doors",
+        "Listing_type": "Road",
+        "Bedrooms ": 1,
+        "property_id": 57
+    },
+    {
+        "Title": "Samanco",
+        "Description": "795 Corry Lane",
+        "Price": "$397174.60",
+        "Property_type": "Epoxy Flooring",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 3,
+        "property_id": 58
+    },
+    {
+        "Title": "Kagoshima-shi",
+        "Description": "3817 Mccormick Street",
+        "Price": "$2411472.62",
+        "Property_type": "Waterproofing & Caulking",
+        "Listing_type": "Hill",
+        "Bedrooms ": 4,
+        "property_id": 59
+    },
+    {
+        "Title": "Cái Nhum",
+        "Description": "97448 Melby Pass",
+        "Price": "$4311639.96",
+        "Property_type": "Retaining Wall and Brick Pavers",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 4,
+        "property_id": 60
+    },
+    {
+        "Title": "Kouvarás",
+        "Description": "16157 Victoria Hill",
+        "Price": "$1635345.51",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Trail",
+        "Bedrooms ": 4,
+        "property_id": 61
+    },
+    {
+        "Title": "Qintang",
+        "Description": "15 Service Terrace",
+        "Price": "$4187553.05",
+        "Property_type": "Landscaping & Irrigation",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 2,
+        "property_id": 62
+    },
+    {
+        "Title": "Darovskoy",
+        "Description": "35 Kenwood Crossing",
+        "Price": "$2924287.26",
+        "Property_type": "EIFS",
+        "Listing_type": "Center",
+        "Bedrooms ": 3,
+        "property_id": 63
+    },
+    {
+        "Title": "Blackfalds",
+        "Description": "4 Dennis Circle",
+        "Price": "$4259170.00",
+        "Property_type": "Framing (Wood)",
+        "Listing_type": "Avenue",
+        "Bedrooms ": 4,
+        "property_id": 64
+    },
+    {
+        "Title": "Khuzhir",
+        "Description": "41 Jackson Parkway",
+        "Price": "$4255062.57",
+        "Property_type": "Electrical",
+        "Listing_type": "Drive",
+        "Bedrooms ": 2,
+        "property_id": 65
+    },
+    {
+        "Title": "Yanqian",
+        "Description": "95 2nd Point",
+        "Price": "$950415.68",
+        "Property_type": "Asphalt Paving",
+        "Listing_type": "Avenue",
+        "Bedrooms ": 2,
+        "property_id": 66
+    },
+    {
+        "Title": "Huangcun",
+        "Description": "3914 Heath Way",
+        "Price": "$131714.07",
+        "Property_type": "EIFS",
+        "Listing_type": "Alley",
+        "Bedrooms ": 1,
+        "property_id": 67
+    },
+    {
+        "Title": "Alangalang",
+        "Description": "43221 Jay Alley",
+        "Price": "$4234561.24",
+        "Property_type": "Prefabricated Aluminum Metal Canopies",
+        "Listing_type": "Point",
+        "Bedrooms ": 2,
+        "property_id": 68
+    },
+    {
+        "Title": "Kertasari",
+        "Description": "5 Bayside Plaza",
+        "Price": "$2831974.27",
+        "Property_type": "Roofing (Asphalt)",
+        "Listing_type": "Lane",
+        "Bedrooms ": 3,
+        "property_id": 69
+    },
+    {
+        "Title": "Trąbki Wielkie",
+        "Description": "3767 Carioca Crossing",
+        "Price": "$3413685.37",
+        "Property_type": "Overhead Doors",
+        "Listing_type": "Hill",
+        "Bedrooms ": 2,
+        "property_id": 70
+    },
+    {
+        "Title": "Vistino",
+        "Description": "384 Ryan Parkway",
+        "Price": "$1854950.76",
+        "Property_type": "Structural and Misc Steel (Fabrication)",
+        "Listing_type": "Point",
+        "Bedrooms ": 1,
+        "property_id": 71
+    },
+    {
+        "Title": "Yaroslavskaya",
+        "Description": "931 Morningstar Drive",
+        "Price": "$1570101.64",
+        "Property_type": "Landscaping & Irrigation",
+        "Listing_type": "Place",
+        "Bedrooms ": 2,
+        "property_id": 72
+    },
+    {
+        "Title": "Kruengraya",
+        "Description": "958 Toban Place",
+        "Price": "$2508893.88",
+        "Property_type": "Exterior Signage",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 3,
+        "property_id": 73
+    },
+    {
+        "Title": "Marsada",
+        "Description": "9150 Meadow Vale Way",
+        "Price": "$4461261.88",
+        "Property_type": "Landscaping & Irrigation",
+        "Listing_type": "Street",
+        "Bedrooms ": 3,
+        "property_id": 74
+    },
+    {
+        "Title": "Novospasskoye",
+        "Description": "570 Grayhawk Junction",
+        "Price": "$3683914.05",
+        "Property_type": "RF Shielding",
+        "Listing_type": "Lane",
+        "Bedrooms ": 3,
+        "property_id": 75
+    },
+    {
+        "Title": "Mantingantengah",
+        "Description": "31 Oneill Circle",
+        "Price": "$2764873.62",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Park",
+        "Bedrooms ": 1,
+        "property_id": 76
+    },
+    {
+        "Title": "Honggang",
+        "Description": "5 West Plaza",
+        "Price": "$1675264.59",
+        "Property_type": "Drywall & Acoustical (FED)",
+        "Listing_type": "Center",
+        "Bedrooms ": 1,
+        "property_id": 77
+    },
+    {
+        "Title": "Hidalgo",
+        "Description": "01 Gerald Parkway",
+        "Price": "$4004625.46",
+        "Property_type": "Retaining Wall and Brick Pavers",
+        "Listing_type": "Circle",
+        "Bedrooms ": 1,
+        "property_id": 78
+    },
+    {
+        "Title": "Los Fresnos",
+        "Description": "7 Debs Hill",
+        "Price": "$895899.54",
+        "Property_type": "Asphalt Paving",
+        "Listing_type": "Junction",
+        "Bedrooms ": 1,
+        "property_id": 79
+    },
+    {
+        "Title": "Kavarna",
+        "Description": "28697 Autumn Leaf Terrace",
+        "Price": "$3289438.19",
+        "Property_type": "Landscaping & Irrigation",
+        "Listing_type": "Crossing",
+        "Bedrooms ": 1,
+        "property_id": 80
+    },
+    {
+        "Title": "Casal",
+        "Description": "700 Fisk Terrace",
+        "Price": "$947629.29",
+        "Property_type": "Marlite Panels (FED)",
+        "Listing_type": "Parkway",
+        "Bedrooms ": 2,
+        "property_id": 81
+    },
+    {
+        "Title": "Bom Jesus dos Perdões",
+        "Description": "364 Ludington Pass",
+        "Price": "$2891267.45",
+        "Property_type": "Prefabricated Aluminum Metal Canopies",
+        "Listing_type": "Park",
+        "Bedrooms ": 4,
+        "property_id": 82
+    },
+    {
+        "Title": "Paço",
+        "Description": "1 Di Loreto Street",
+        "Price": "$4963192.85",
+        "Property_type": "Epoxy Flooring",
+        "Listing_type": "Park",
+        "Bedrooms ": 3,
+        "property_id": 83
+    },
+    {
+        "Title": "Caminaca",
+        "Description": "557 Scofield Park",
+        "Price": "$2211401.99",
+        "Property_type": "Drywall & Acoustical (FED)",
+        "Listing_type": "Street",
+        "Bedrooms ": 4,
+        "property_id": 84
+    },
+    {
+        "Title": "Mmathubudukwane",
+        "Description": "73 Lawn Plaza",
+        "Price": "$1391021.59",
+        "Property_type": "EIFS",
+        "Listing_type": "Place",
+        "Bedrooms ": 4,
+        "property_id": 85
+    },
+    {
+        "Title": "Kakamega",
+        "Description": "0 Dawn Terrace",
+        "Price": "$185214.83",
+        "Property_type": "Glass & Glazing",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 2,
+        "property_id": 86
+    },
+    {
+        "Title": "Ararat",
+        "Description": "66 Lien Terrace",
+        "Price": "$3699995.62",
+        "Property_type": "Electrical and Fire Alarm",
+        "Listing_type": "Hill",
+        "Bedrooms ": 1,
+        "property_id": 87
+    },
+    {
+        "Title": "Heshui",
+        "Description": "1 Mosinee Plaza",
+        "Price": "$4792589.21",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Alley",
+        "Bedrooms ": 1,
+        "property_id": 88
+    },
+    {
+        "Title": "Toki",
+        "Description": "196 Duke Center",
+        "Price": "$4802036.58",
+        "Property_type": "Prefabricated Aluminum Metal Canopies",
+        "Listing_type": "Alley",
+        "Bedrooms ": 3,
+        "property_id": 89
+    },
+    {
+        "Title": "Druya",
+        "Description": "6778 Spaight Trail",
+        "Price": "$4688783.42",
+        "Property_type": "Casework",
+        "Listing_type": "Point",
+        "Bedrooms ": 2,
+        "property_id": 90
+    },
+    {
+        "Title": "Polonnaruwa",
+        "Description": "67 Dawn Way",
+        "Price": "$1478283.21",
+        "Property_type": "Asphalt Paving",
+        "Listing_type": "Street",
+        "Bedrooms ": 4,
+        "property_id": 91
+    },
+    {
+        "Title": "Birmingham",
+        "Description": "5 Warner Street",
+        "Price": "$3790914.06",
+        "Property_type": "Temp Fencing, Decorative Fencing and Gates",
+        "Listing_type": "Point",
+        "Bedrooms ": 1,
+        "property_id": 92
+    },
+    {
+        "Title": "Iniö",
+        "Description": "87 Anthes Trail",
+        "Price": "$4809600.09",
+        "Property_type": "Roofing (Metal)",
+        "Listing_type": "Terrace",
+        "Bedrooms ": 2,
+        "property_id": 93
+    },
+    {
+        "Title": "Anjiang",
+        "Description": "1060 Bartelt Road",
+        "Price": "$2768704.21",
+        "Property_type": "Sitework & Site Utilities",
+        "Listing_type": "Center",
+        "Bedrooms ": 3,
+        "property_id": 94
+    },
+    {
+        "Title": "Suḩayl Shibām",
+        "Description": "739 Jackson Avenue",
+        "Price": "$4154573.43",
+        "Property_type": "Sitework & Site Utilities",
+        "Listing_type": "Plaza",
+        "Bedrooms ": 3,
+        "property_id": 95
+    },
+    {
+        "Title": "Bosaso",
+        "Description": "327 Lotheville Lane",
+        "Price": "$226820.49",
+        "Property_type": "Wall Protection",
+        "Listing_type": "Pass",
+        "Bedrooms ": 2,
+        "property_id": 96
+    },
+    {
+        "Title": "Göteborg",
+        "Description": "7845 Golf Court",
+        "Price": "$1093260.65",
+        "Property_type": "Casework",
+        "Listing_type": "Alley",
+        "Bedrooms ": 1,
+        "property_id": 97
+    },
+    {
+        "Title": "Al Muţayrifī",
+        "Description": "25676 Algoma Place",
+        "Price": "$1770586.12",
+        "Property_type": "Asphalt Paving",
+        "Listing_type": "Alley",
+        "Bedrooms ": 4,
+        "property_id": 98
+    },
+    {
+        "Title": "Banī an Nahārī",
+        "Description": "32374 Monterey Place",
+        "Price": "$1552131.48",
+        "Property_type": "Casework",
+        "Listing_type": "Way",
+        "Bedrooms ": 3,
+        "property_id": 99
+    },
+    {
+        "Title": "Manabo",
+        "Description": "7 Kings Plaza",
+        "Price": "$277051.98",
+        "Property_type": "Painting & Vinyl Wall Covering",
+        "Listing_type": "Court",
+        "Bedrooms ": 2,
+        "property_id": 100
+    }
+]
