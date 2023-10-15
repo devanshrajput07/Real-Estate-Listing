@@ -891,12 +891,12 @@
         "id": 99
     },
     {
-        "Title": "Pristina",
-        "Description": "1 Hauk Junction",
-        "Price": "$2859060.71",
-        "Property_type": "Farm-house",
+        "Title": "Noida",
+        "Description": "Sector 62",
+        "Price": "$100000",
+        "Property_type": "Home",
         "Listing_type": "For Sale",
-        "Bedrooms": 3,
+        "Bedrooms": "3",
         "id": 100
     },
     {
