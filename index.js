@@ -49,29 +49,39 @@ app.put('/api/estates/:id', (req, res) => {
   });
 });
 
+
 app.patch('/api/estates/:id', (req, res) => {
   const id = Number(req.params.id);
   const body = req.body;
-  const updatedEstate = ({ ...body, id: id });
+  const updatedEstate = ({ ...estates[id - 1], ...body, id: id });
   estates[id-1] = updatedEstate;
   fs.writeFile('./MOCK_DATA.json', JSON.stringify(estates), (err, data) => {
   return res.json({ status: "success",  estate: updatedEstate });
   });
 });
 
-app.delete('/api/estates/:id', (req, res) => {
+/*
+
+app.delete('/api/estates', (req, res) => {
   estates = [];
   fs.writeFile('./MOCK_DATA.json', JSON.stringify(estates), (err, data) => {
-  return res.json({ status: "success",  estate: deleted });
+    return res.json({ status: "success", estate: "all deleted" });
   });
 });
 
 app.delete('/api/estates/:id', (req, res) => {
   const id = Number(req.params.id);
+  const deletedEstate = estates.find(estate => estate.id === id);
   estates = estates.filter(estate => estate.id !== id);
   fs.writeFile('./MOCK_DATA.json', JSON.stringify(estates), (err, data) => {
-  return res.json({ status: "success",  estate: deleted });
+    return res.json({ status: "success", estate: deletedEstate });
   });
-  });
-  
+});
+
+app.get('/api/estates/cheapest', (req, res) => {
+    return res.json({ status: "pending"});
+});
+
+*/  
+
 app.listen(PORT, () => console.log(`Server started at port:${PORT}`));
