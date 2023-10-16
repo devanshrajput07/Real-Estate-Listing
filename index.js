@@ -65,8 +65,6 @@ app.patch('/api/estates/:id', (req, res) => {
   });
 });
 
-
-
 // Delete all Estate records
 app.delete('/api/estates', (req, res) => {
   estates = [];
@@ -89,7 +87,5 @@ app.delete('/api/estates/:id', (req, res) => {
 app.get('/api/estates/cheapest', (req, res) => {
     return res.json({ status: "pending"});
 });
-
-
 
 app.listen(PORT, () => console.log(`Server started at port:${PORT}`));
